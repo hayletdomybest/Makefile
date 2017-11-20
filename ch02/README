@@ -1,0 +1,10 @@
+In this project I update  the ch01 simple Makefile then this code become clear
+
+Makefile regular
+
+target: prerequisites
+	command
+
+tip:[tab]command
+
+
